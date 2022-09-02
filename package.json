@@ -1,6 +1,6 @@
 {
   "name": "reactify",
-  "displayName": "reactify",
+  "displayName": "Reactify",
   "description": "A light theme derived from Material Theme Lighter High Contrast that's tailored for writing React, React Native, NodeJS and general JS apps.",
   "version": "0.0.1",
   "engines": {
