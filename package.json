@@ -6,9 +6,16 @@
   "engines": {
     "vscode": "^1.71.0"
   },
+  "publisher": "iuliuvisovan",
+  "author": "Iuliu Vișovan [@iuliuvisovan]",
   "categories": [
     "Themes"
   ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iuliuvisovan/reactify"
+  },
   "contributes": {
     "themes": [
       {
